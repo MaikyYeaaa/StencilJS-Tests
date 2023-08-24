@@ -1,0 +1,12 @@
+:host {
+  display: block;
+}
+:host(.title-size-small) {
+  font-size: 8px;
+}
+:host(.title-size-medium) {
+  font-size: 12px;
+}
+:host(.title-size-big) {
+  font-size: 16px;
+}
